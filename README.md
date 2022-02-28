@@ -1,2 +1,3 @@
-# cice-aws-cloudwatch
-Repo form CICE example AWS CloudWatch Demo
+## CICE AWS CloudWatch
+
+La guía se encuentra [en este enlace](https://github.com/alvarolinarescabre/cice-aws-cloudwatch/wiki).
